@@ -1,2 +1,2 @@
 # primer juego
- creando mi primer juego con JS
+ creando mi primer juego con JS nativo
